@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/daily-buyer
+daily-buyer.so
+daily-buyer.dylib
+daily-buyer.dll
+daily-buyer.a
+daily-buyer.lib
+daily-buyer-test-*
+*.exe
+*.o
+*.obj
+*.lst
